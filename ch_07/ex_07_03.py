@@ -1,7 +1,8 @@
 file=input('Please enter a file name to open: ')
 if file=='na na boo boo':
     print('NA NA BOO BOO TO YOU - You have been punk\'d!')
-else:
+    quit()
+else :
     try:
         fh=open(file)
     except:
