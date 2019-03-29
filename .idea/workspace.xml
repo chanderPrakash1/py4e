@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="064a05e4-a1bb-49d5-9c55-200af077cbf4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Final_Notice_CSPE_2019_N.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_07/Untitled 2.pages" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_07/ex_07_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch_07/ex_07_03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch_07/sa.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_09/ex_09_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch_09/ex_09_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_09/ex_09_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch_09/ex_09_03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_09/ex_09_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch_09/ex_09_04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch_09/ex_09_05.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch_09/ex_09_05.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,15 +16,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch_07/ex_07_00.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch_07/ex_07_03.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -35,11 +24,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch_08/ex_08_06.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ch_10/ex_10_00.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -62,6 +60,7 @@
         <option value="$PROJECT_DIR$/ch_07/ex_07_03.py" />
         <option value="$PROJECT_DIR$/ch_08/ex_08_06.py" />
         <option value="$PROJECT_DIR$/ch_08/ex_09_01.py" />
+        <option value="$PROJECT_DIR$/ch_10/ex_10_00.py" />
       </list>
     </option>
   </component>
@@ -78,7 +77,10 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -95,7 +97,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex_09_01">
+  <component name="RunManager" selected="Python.ex_10_00">
     <configuration name="ex_07_00" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py4e" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,8 +182,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex_10_00" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py4e" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch_10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch_10/ex_10_00.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex_10_00" />
         <item itemvalue="Python.ex_08_06" />
         <item itemvalue="Python.ex_07_00" />
       </list>
@@ -204,7 +228,7 @@
     <frame x="705" y="43" width="715" height="758" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2533137" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25260028" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -224,27 +248,6 @@
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="right" id="R Packages" order="4" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2533137" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32882884" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="right" id="R Packages" order="4" />
-    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ch_08/ex_09_01.py" />
@@ -266,7 +269,14 @@
     <entry file="file://$PROJECT_DIR$/ch_08/ex_08_06.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch_10/ex_10_00.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
         </state>
       </provider>
     </entry>

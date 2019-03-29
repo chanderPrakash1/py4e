@@ -6,7 +6,7 @@ except:
     print('The file can not be opened')
     exit()
 for line in fh:
-    if line.startswith('From'):
+    if line.startswith('From:'):
         words=line.split()
         if len(words)<4:continue
         #print('DEBUG: ',words)

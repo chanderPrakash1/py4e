@@ -8,7 +8,7 @@ except:
 for line in fh:
     if line.startswith('From'):
         words=line.split()
-        if len(words)<2 or words[0]!='From:':continue
+        if len(words)<2 or words[0]!='From':continue
         #print('DEBUG: ',words)
         pos=words[1].find('@')
         addr=words[1][pos+1:]
